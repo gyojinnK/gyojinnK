@@ -1,4 +1,4 @@
-### <h1> Less sweet blueberry 🍇 </h1>
+<h1> Less sweet blueberry 🍇 </h1>
 <h2>Thank you for coming to this humble place. 👋</h2>
 
 <a href="https://www.instagram.com/_gz_gang/">
@@ -12,6 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyojinnK&layout=compact&theme=nord&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksmug1998)](https://solved.ac/ksmug1998)
 
 See ya!
+
 <!--
 **gyojinnK/gyojinnK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
