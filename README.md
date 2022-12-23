@@ -4,7 +4,6 @@
   <img src="http://img.shields.io/badge/-_gz_gang-E4405F?style=flat&logo=Instagram&logoColor=E8E8E8&link=https://www.instagram.com/_gz_gang/"style="height : 2%; width: 5vw; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br>
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyojinnK&show_icons=true&theme=apprentice)
 
