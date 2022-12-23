@@ -1,7 +1,5 @@
 <h1> Less sweet blueberry 🍇 </h1>
-Thank you for coming to this humble place. 👋
-
-<br>
+<h3>Thank you for coming to this humble place. 👋</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyojinnK&show_icons=true&theme=nord )
 
