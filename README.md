@@ -23,7 +23,7 @@
 <h3> Contact Me ✈</h3>
 <p>
   <a href="https://www.instagram.com/_gz_gang/">
-    <img src="http://img.shields.io/badge/-_gz_gang-E4405F?style=flat&logo=Instagram&logoColor=E8E8E8&link=https://www.instagram.com/_gz_gang/"/>
+    <img src="http://img.shields.io/badge/-Instargram-E4405F?style=flat&logo=Instagram&logoColor=E8E8E8&link=https://www.instagram.com/cvozean/"/>
   </a>
   <a href="mailto:ksmug1998@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=ksmug1998@gamil.com"/>
