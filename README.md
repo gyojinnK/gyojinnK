@@ -3,7 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyojinnK&show_icons=true&theme=nord )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyojinnK&layout=compact&theme=nord&langs_count=9)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksmug1998)](https://solved.ac/ksmug1998)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyojinnK&layout=compact&theme=nord&langs_count=9)]
+(https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksmug1998)](https://solved.ac/ksmug1998)
 
 <h3> My Tech 🛠</h3>
 <p>
