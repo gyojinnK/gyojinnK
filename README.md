@@ -1,5 +1,5 @@
-<h1> Less sweet blueberry 🍇 </h1>
-<h3>Thank you for coming to this humble place. 👋</h3>
+<h1>🍇 </h1>
+<h3>👋</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gyojinnK&show_icons=true&theme=tokyonight)
 
