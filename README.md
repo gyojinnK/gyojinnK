@@ -1,5 +1,4 @@
-<h1>🍇 </h1>
-<h3>👋</h3>
+<h1>🍇 👋</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gyojinnK&show_icons=true&theme=tokyonight)
 
