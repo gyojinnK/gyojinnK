@@ -1,4 +1,4 @@
-<h1>🌝</h1>
+<h1>精進:정진</h1>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gyojinnK&layout=compact&theme=tokyonight&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 ![gyojinnK's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyojinnK&theme=tokyonight&show_icons=true)
